@@ -24,3 +24,5 @@ For example, on December 30th, three customers made purchases, and on the 31st â
 - Find the top 10 products by the number of units sold over time and create a bar plot. How many units of the product with product_id==56 were sold?
 - Visualize sales by days.
 - How many users have purchased any product more than once (repeatedly)? A repeat will be considered as the purchase of a product with the same product_id, made on different days.
+
+Here is the project itself [GH_Miniproject_3](https://github.com/Horiz0nT/Miniproject_3/blob/main/GH_miniproject_3.ipynb)
